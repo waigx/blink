@@ -196,6 +196,67 @@
   font-style: italic;
 }
 
+
+/* Pragmata Pro Mono */
+
+@font-face {
+  font-family: 'PragmataPro Mono';
+  src: url('Fonts/PragmataPro_Mono_R_0828.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PragmataPro Mono';
+  src: url('Fonts/PragmataPro_Mono_R_0828.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PragmataPro Mono Liga';
+  src: url('Fonts/PragmataProR_liga_0828.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PragmataPro Mono Liga';
+  src: url('Fonts/PragmataProR_liga_0828.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Pragmata Pro Mono Nerd Font */
+
+@font-face {
+  font-family: 'PragmataProMono Nerd Font';
+  src: url('Fonts/PragmataPro Mono Regular Nerd Font Complete.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PragmataProMono Nerd Font';
+  src: url('Fonts/PragmataPro Mono Regular Nerd Font Complete.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PragmataProMonoLiga Nerd Font';
+  src: url('Fonts/PragmataPro Mono Liga Regular Nerd Font Complete.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PragmataProMonoLiga Nerd Font';
+  src: url('Fonts/PragmataPro Mono Liga Regular Nerd Font Complete.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
 span.emoji {
   -webkit-text-size-adjust: 90%;
   vertical-align: top;
